@@ -61,6 +61,7 @@ Describe any guidelines for contributing to the project. For example:
 5. Open a pull request.
 ## License
 Specify the license under which the project is shared. For example:
+
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
 ## Contact Information
 For questions, comments, or contributions, please contact:
