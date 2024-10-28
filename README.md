@@ -1,4 +1,13 @@
 # oge-repository-template
+When creating a new project repository, please follow these naming guidelines:
+1. Format: Use lowercase words separated by hyphens.
+2. OGE Projects: If the project is related to the Open Geospatial Engine (OGE), prepend oge- to the repository name.
+
+Examples
+1. For general projects: data-processing-tool
+2. For OGE-related projects: oge-visualization-module
+
+Note: Avoid using uppercase letters, underscores, or special characters in repository names to ensure consistency and compatibility.
 ## Overview
 A brief introduction to the project, its objectives, and its relevance. Summarize the main purpose in a few sentences.
 ## Table of Contents
